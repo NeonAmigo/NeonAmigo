@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on TSB (telegram tech support bot) 
 - 🌱 I’m currently learning Python 🐍
-- 📫 How to reach me: t.me/iNeonYT
+- 📫 How to reach me: codebeta@mail.ru
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
