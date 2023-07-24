@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, open-source developer</h3>
 
-- 🔭 I’m currently working on @ACodeBeta
+- 🔭 I’m currently working on TSB (telegram tech support bot) 
 - 🌱 I’m currently learning Python 🐍
 - 📫 How to reach me: t.me/iNeonYT
 
